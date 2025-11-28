@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_interview\\Persec\\persec2025-Windows-dev-interview-Sorawit-Weng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5702DC34-BB22-49AF-8562-EADAE707E83E}|persec-test\\persec-test.csproj|d:\\_interview\\persec\\persec2025-windows-dev-interview-sorawit-weng\\persec-test\\test04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5702DC34-BB22-49AF-8562-EADAE707E83E}|persec-test\\persec-test.csproj|solutionrelative:persec-test\\test04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702DC34-BB22-49AF-8562-EADAE707E83E}|persec-test\\persec-test.csproj|d:\\_interview\\persec\\persec2025-windows-dev-interview-sorawit-weng\\persec-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5702DC34-BB22-49AF-8562-EADAE707E83E}|persec-test\\persec-test.csproj|solutionrelative:persec-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test04.cs",
+              "DocumentMoniker": "D:\\_interview\\Persec\\persec2025-Windows-dev-interview-Sorawit-Weng\\persec-test\\test04.cs",
+              "RelativeDocumentMoniker": "persec-test\\test04.cs",
+              "ToolTip": "D:\\_interview\\Persec\\persec2025-Windows-dev-interview-Sorawit-Weng\\persec-test\\test04.cs",
+              "RelativeToolTip": "persec-test\\test04.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:44:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_interview\\Persec\\persec2025-Windows-dev-interview-Sorawit-Weng\\persec-test\\Program.cs",
+              "RelativeDocumentMoniker": "persec-test\\Program.cs",
+              "ToolTip": "D:\\_interview\\Persec\\persec2025-Windows-dev-interview-Sorawit-Weng\\persec-test\\Program.cs",
+              "RelativeToolTip": "persec-test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:41:25.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

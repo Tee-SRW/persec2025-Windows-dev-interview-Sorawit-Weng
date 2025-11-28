@@ -50,7 +50,7 @@ namespace persec_test
             {
                 int value = map[roman[i]];
 
-                if (value < map[roman[i + 1]] && i + 1 < roman.Length)
+                if (i + 1 < roman.Length && value < map[roman[i + 1]])
                 {
                     result -= value;
                 }
