@@ -1,0 +1,14 @@
+D:\_interview\Persec\persec-test\bin\Debug\net9.0\persec-test.exe
+D:\_interview\Persec\persec-test\bin\Debug\net9.0\persec-test.deps.json
+D:\_interview\Persec\persec-test\bin\Debug\net9.0\persec-test.runtimeconfig.json
+D:\_interview\Persec\persec-test\bin\Debug\net9.0\persec-test.dll
+D:\_interview\Persec\persec-test\bin\Debug\net9.0\persec-test.pdb
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\persec-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\persec-test.AssemblyInfoInputs.cache
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\persec-test.AssemblyInfo.cs
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\persec-test.csproj.CoreCompileInputs.cache
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\persec-test.dll
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\refint\persec-test.dll
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\persec-test.pdb
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\persec-test.genruntimeconfig.cache
+D:\_interview\Persec\persec-test\obj\Debug\net9.0\ref\persec-test.dll
